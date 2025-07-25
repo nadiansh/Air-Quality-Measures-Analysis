@@ -38,11 +38,6 @@ The goal of this analysis is to:
 
 
 
-## Contact
-
-For any feedback or questions, feel free to reach out via GitHub Issues or email.
-
-
 ##
 
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
