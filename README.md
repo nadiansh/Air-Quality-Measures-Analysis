@@ -43,8 +43,9 @@ The goal of this analysis is to:
 For any feedback or questions, feel free to reach out via GitHub Issues or email.
 
 
-![Status](https://img.shields.io/badge/status-active-brightgreen.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+##
+
 ![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+![Anaconda](https://img.shields.io/badge/Anaconda-Python%20Distribution-44A833?logo=anaconda&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
 
