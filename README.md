@@ -40,7 +40,13 @@ The goal of this analysis is to:
 
 ##
 
-![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
-![Anaconda](https://img.shields.io/badge/Anaconda-Python%20Distribution-44A833?logo=anaconda&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange?logo=jupyter)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=fff)](#)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0D5F8A?logo=seaborn&logoColor=fff)](#)
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+
+
 
